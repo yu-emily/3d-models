@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized WW1 Plane - Sopwith Camel
+* source:	https://sketchfab.com/3d-models/stylized-ww1-plane-sopwith-camel-001a5201eddf4f3b98591598584673f5
+* author:	Kristoffer Broos (https://sketchfab.com/KristofferBroos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized WW1 Plane - Sopwith Camel" (https://sketchfab.com/3d-models/stylized-ww1-plane-sopwith-camel-001a5201eddf4f3b98591598584673f5) by Kristoffer Broos (https://sketchfab.com/KristofferBroos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
